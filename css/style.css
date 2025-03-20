@@ -340,6 +340,9 @@ footer {
 }
 .btn-readmore {
   background-color: var(--primary-color) !important;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
 }
 .text-latest-post {
   font-size: 17px !important;
